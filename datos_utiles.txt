@@ -1,0 +1,12 @@
+
+PythonAnyWhere
+==============
+
+MySQL
+-----
+host: puchosoft.mysql.pythonanywhere-services.com
+user: puchosoft
+password: LQSyMtoor
+
+databases: puchosoft$iot
+
