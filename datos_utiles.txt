@@ -6,7 +6,7 @@ MySQL
 -----
 host: puchosoft.mysql.pythonanywhere-services.com
 user: puchosoft
-password: LQSyMtoor
+password: LQSyM@toor
 db: puchosoft$iot
 
 Web App
